@@ -1,0 +1,166 @@
+*{margin: 0%;padding: 0%;}
+h2{font-family: "Google Sans";}
+/* NAVIGATION STARTS */
+.nav{ width: 100%;display: flex;margin-top: 20px;border-bottom: 2px solid gainsboro;}
+.nav .logo{width:15%;display: flex;color: grey;}
+.nav .nav-links{justify-content: space-between;justify-items:center;width: 50%;}
+.nav .nav-links a{text-align: center;text-decoration: none;padding: 20px;color: grey;}
+.nav .nav-links1{padding-right:20px;text-decoration: none;}
+.nav .nav-links1 a{padding: 5px;text-decoration: none;color: grey;padding-top: 5px;}
+.nav .gtd a{text-decoration: none;color: grey;}
+.nav .gtd{padding-right: 20px;border: 1px solid gainsboro;width: 7%;text-align: center;margin-bottom: 5px;border-radius: 1px;}
+.nav .dtw a{text-decoration: none;color: white;}
+.nav .dtw{color:#1a73e8;border: 1px solid #1a73e8; width: 15%;text-align: center;margin-bottom: 5px;background-color:#1a73e8;padding: 5px 5px;}
+/* NAVIGATION ENDS */
+
+/* row-1 starts */
+.row-1{display: flex;width: 100%;height: 400px;justify-content: space-evenly;margin-top: 100px;}
+.row-1 .column a{text-decoration: none;}
+.row-1 .column{font-size: x-large;}
+.row-1 .column p{color: grey;}
+/* row-1 ends */
+
+/* row-2 starts */
+.row-2{width: 100%;display: flex;text-align: center;justify-content: center;border-top: 2px solid gainsboro;margin-top: 100px;}
+.row-2 .column p{margin-top: 40px;color: grey;}
+.row-2 .column p{color: grey;}
+/* row-2 ends */
+
+/* row-3 starts */
+.row-3{width: 100%; display: flex;height: auto;justify-content: space-evenly;}
+.row-3 .column img{height: 600px;}
+.row-3 .column1{margin-top: 130px;font-size: x-large;}
+.row-3 .column1 p{color: grey;}
+/* row-3 ends */
+
+/* row-4 starts */
+.row-4{display: flex;width: 100%;height: 400px;justify-content: space-evenly;margin-top: 130px;}
+.row-4 .column a{text-decoration: none;}
+.row-4 .column{margin-top: 130px;font-size: x-large;}
+.row-4 .column p{color: grey;}
+/* row-4 ends */
+
+/* row-5 starts */
+.row-5{width: 100%; display: flex;height: auto;justify-content: space-evenly;margin-top: 130px;}
+.row-5 .column img{height: 400px;}
+.row-5 .column1{margin-top: 130px;font-size: x-large;}
+.row-5 .column1 p{color: grey;}
+/* row-5 ends */
+
+/* row-6 starts */
+.row-6{display: flex;width: 100%;height: 400px;justify-content: space-evenly;margin-top: 130px;}
+.row-6 .column a{text-decoration: none;}
+.row-6 .column{margin-top: 130px;font-size: x-large;}
+.row-6 .column p{color: grey;}
+/* row-6 ends */
+
+/* row-7 starts */
+.row-7{display: flex;justify-content: space-evenly;justify-items: center;margin-top: 130px;background-color: rgb(255, 255, 255);}
+.row-7 img{justify-items: space-between;height: 40px;margin-top: 20px;width: 12%;margin-right: 10px;}
+.row-7 h2{font-weight: 700;font-size: xx-large;}
+.row-7 .column{text-align: center;}
+/* row-7 ends */
+
+/* row-8 starts */
+.row-8{width:100%;display: flex;justify-content: center;justify-items: center;margin-top: 100px;}
+.row-8 .column{font-size: xx-large;font-weight: large;}
+.row-8 .column img{font-weight: bold;width: 100%;height: 100px}
+.row-8 .column a{font-size:large;margin-top: 30px;padding-right: 120px;text-decoration: none;}
+
+/* row-8 ends */
+
+/* row-9 starts */
+.row-9{display: flex;width: 100%;justify-content: center;justify-items: center;margin-top: 140px;}
+.row-9 .column h1{text-align: center;font-weight: 100;margin-bottom: 40px;}
+.row-9 .column img{border: 1px solid grey}
+/* row-9 ends */
+
+/* row-10 starts */
+.row-10{width:100%;display: flex;justify-content: space-evenly;margin-top: 40px;}
+.row-10 .column p{text-align: center;}
+.row-10 .column h5{text-align: center;}
+/* row-10 ends*/
+
+/* row-11 starts */
+.row-11{width: 100%;justify-content: center;margin-top: 40px;}
+.row-11 .thy{width: 100%;border: 1px solid gray;}
+/* row-11 ends */
+
+/* row-12 STARTS */
+.row-12{width: 100%;justify-content: center;justify-items: center;margin-top: 40px;}
+.row-12 .column{width: 100%;justify-content: center;text-align: center;margin-right: 130px;}
+.row-12 .column h1{font-size: 36px;font-weight: 400;letter-spacing: -.25px;line-height: 44px;}
+.row-12 .column1{width: 100%;justify-items: center;padding: 20px;padding-left: 700px;}
+.row-12 .column2{width: 100%;text-align: center;color: #5f6368;font-weight: 400;border-bottom: 1px solid gray;margin-bottom: 40px;}
+.row-12 .column2 a{text-decoration: none;color: #1a73e8;margin-top: 40px;margin-bottom: 40px;}
+/* row-12 ENDS */
+
+/* row-13 starts */
+.row-13{width: 100%;display: flex;height: 300px;background-image: url(../img/google.png);background-repeat: no-repeat;background-position:left;margin-top: 30px;}
+.row-13 .column{width:85%;text-align: center;margin-top:10px;}
+.row-13 .column h1{font-size: 36px;font-weight: 400;margin-bottom: 10px;}
+.row-13 .column .gtd{width: 80%;}
+.row-13 .column .gtd a{text-decoration: none;color: white;border: 0.5px solid gray;padding: 15px 30px;background-color: #1a73e8;}
+.row-13 .column .gt{width: 80%;margin-left: 170px;}
+.row-13 .column .gt a{text-decoration: none;color: #1a73e8;border: 0.5px solid gray;padding:33px 15px;box-sizing: border-box;}
+
+/* row-14 start for download */
+.row-14{width: 100%;height: auto;justify-content: space-evenly; border-bottom: 1px solid grey;border: 0.5px solid gray;background-color: aliceblue;}
+.row-14 .column img{width: 20px;height: 25px;margin-top: 30px;padding: 10px;}
+.row-14 .column p{margin: 20px;}
+.row-14 .column a{text-decoration: none;color: #1a73e8;font-family: sans-serif;}
+/* row-14 ends for download */
+
+/* nav-b starts */
+.nav-c{width: 100%;display: flex;justify-content: space-evenly;background-color: aliceblue;border-top: 0.5px solid gray;height: 100px;}
+.nav-c .nav-c-links{width: 80%;}
+.nav-c .nav-c-links a{text-decoration: none;padding: 20px;color: grey;}
+.nav-c .db a{padding: 20px;text-decoration: none;color:grey;}
+
+
+
+
+/* row-13NDS */
+
+/* NAVIGATION STARTS for download*/
+.nav-d{ width: 100%;display: flex;margin-top: 20px;border-bottom: 2px solid gainsboro;}
+.nav-d .logo{width:15%;display: flex;padding: 8px;color: grey;}
+.nav-d .nav-links{justify-content: space-between;justify-items:center;width: 80%;margin-top: 10px;}
+.nav-d .nav-links a{text-align: center;text-decoration: none;padding: 20px;color: grey;}
+.nav-d .gt a{text-decoration: none;color: #1a73e8;;border-radius: 10px;border: 2px solid lightgrey;padding: 10px 5px;;}
+.nav-d .gt{width: 10%;margin-top: 10px;}
+.nav-d .dt a{background-color: #1a73e8;;border-radius: 10px;border: 1px ;padding: 10px 15px;color: white;text-decoration: none;}
+.nav-d .dt{width: 25%;margin-top: 10px;}
+/* NAVIGATION ENDS for download*/
+
+/* row-1 starts for download*/
+.row-1d{display: flex;justify-content: space-evenly;height: 400px;margin-top: 90px;}
+.row-1d .column h2{font-size: xx-large;font-weight: 400;font-family: sans-serif;}
+.row-1d .column a{background-color: #1a73e8;;border-radius: 30px;border: 1px ;padding: 10px 15px;color: white;text-decoration: none;}
+/* row-1 ends for download */
+
+/* row-2 starts for download*/
+.row-2d{width:100%; justify-content: center;display: flex;margin-top: 40px;}
+.row-2d .col{margin-left: 220px;padding: 10px;justify-content: center;}
+.row-2d .column h2{text-align: center;font-size: xx-large;font-weight: 500;}
+.row-2d .column p{text-align: center;font-weight: 300;}
+.row-2d .col img{width: 25%;;height: 60px;}
+.row-2d .column1 a{text-decoration: none;margin-right:250px ;color: #1a73e8;}
+.row-2d .column1{text-align: center;margin-top: 50px;}
+
+/* row-2 ends for download */
+
+/* row-3 start for download */
+.row-3d{width: 100%;height: auto;justify-content: space-evenly; border-bottom: 1px solid grey;}
+.row-3d .column img{width: 20px;height: 25px;margin-top: 30px;padding: 10px;}
+.row-3d .column p{margin: 20px;}
+.row-3d .column a{text-decoration: none;color: #1a73e8;font-family: sans-serif;}
+/* row-3 ends for download */
+
+/* nav-b starts */
+.nav-b{width: 100%;display: flex;justify-content: space-evenly;}
+.nav-b .nav-b-links{width: 100%;}
+.nav-b .nav-b-links a{text-decoration: none;padding: 20px;color: grey;}
+.nav-b .dt a{padding: 20px;text-decoration: none;color:grey;}
+
+/* nav-b ends */
